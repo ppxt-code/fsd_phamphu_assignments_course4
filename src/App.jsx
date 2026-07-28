@@ -1,15 +1,18 @@
 import React from 'react';
+import Timer from './Timer';
 
 function App() {
   return (
     <div>
+      <h2>Assessment 26/07/26</h2>
+      <Timer /><br/>
+      <h2>Assessment 25/07/26</h2>
+      <Products /><br/>
       <h2>Assessment 19/07/26</h2>
       <h1>Resume</h1>
       <Objective />
       <Education />
       <Skills />
-      <br/><h2>Assessment 25/07/26</h2>
-      <Products />
     </div>
   );
 }
