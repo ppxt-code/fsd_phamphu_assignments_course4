@@ -1,9 +1,12 @@
 import React from 'react';
 import Timer from './Timer';
+import HookExamples from './HookExamples';
 
 function App() {
   return (
     <div>
+      <h2>Assessment 01/08/26</h2>
+      <HookExamples /><br/>
       <h2>Assessment 26/07/26</h2>
       <Timer /><br/>
       <h2>Assessment 25/07/26</h2>
