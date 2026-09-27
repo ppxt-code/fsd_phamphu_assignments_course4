@@ -3,10 +3,13 @@ import Timer from './Timer';
 import HookExamples from './HookExamples';
 import Flight from './Flight';
 import DataStructure from './DataStructure';
+import DataStructure2 from './DataStructure2';
 
 function App() {
   return (
     <div>
+      <h2>Assessment 21/09/26</h2>
+      <DataStructure2/><br/>
       <h2>Assessment 20/09/26</h2>
       <DataStructure/><br/>
       <h2>Assessment 16/08/26</h2>
